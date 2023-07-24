@@ -28,7 +28,7 @@ O código realiza as seguintes tarefas:
 
 ## Utilização
 
-Para utilizar o código, você precisa ter o Python e a biblioteca pandas instalados em seu ambiente de desenvolvimento. Além disso, certifique-se de ter um arquivo CSV contendo os dados dos clientes no caminho especificado no código (linha 4).
+Para utilizar o código, você precisa ter o Python e a biblioteca pandas instalados em seu ambiente de desenvolvimento. Além disso, certifique-se de ter um arquivo CSV contendo os dados dos clientes no caminho especificado no código.
 
 Após executar o script, ele processará os dados e imprimirá as seguintes informações:
 
